@@ -1,0 +1,22 @@
+
+*{
+    background-color: aliceblue;
+    font-family:sans-serif;
+}
+
+header{
+    display: grid;
+    grid-template-columns: repeat(3.30%);
+}
+
+input{
+    width: 250px;
+    height: 10%;
+    margin-top: 20%;
+    border-radius: 5px;
+    background-color: rgb(red, green, blue);
+}
+
+imagenes img{
+    
+}
